@@ -1,6 +1,6 @@
 #ifndef _Putchar_H_
 #define _Putchar_H_
 
-void _putchar(char *text);
+int _putchar(char);
 
 #endif /* Putchar_H_ */
