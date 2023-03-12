@@ -1,6 +1,6 @@
-#ifndef PRINTTEXT_H_
-#define PRINTTEXT_H_
+#ifndef _Putchar_H_
+#define _Putchar_H_
 
-void printText(char *text);
+void _putchar(char *text);
 
-#endif /* PRINTTEXT_H_ */
+#endif /* Putchar_H_ */
