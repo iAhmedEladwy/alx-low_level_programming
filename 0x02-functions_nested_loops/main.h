@@ -8,6 +8,6 @@ int _putchar(char);
 #ifndef print_alphabet_H_
 #define print_alphabet_H_
 
-int print_alphabet(void);
+void print_alphabet(void);
 
 #endif
